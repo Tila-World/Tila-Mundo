@@ -17,7 +17,7 @@ T - Tecnolgia  I - inteligente L - Ludica - A - Para Aprendizado
   <tr>
     <td align="center">
       <a href="https://github.com/MayanGit">
-        <img src="https://github.com/BrxnoTheOne" width="100px;" alt="Mayan"/>
+        <img src="https://github.com/BrxnoTheOne" width="100px;" alt="Bruno"/>
         <br />
         <sub><b>:octocat: Bruno Rocha</b></sub>
       </a>
