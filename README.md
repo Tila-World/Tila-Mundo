@@ -2,7 +2,7 @@
 
 <h1>TILA</h1>
 <div align=center>
-<img width="100%" src="logotila" />
+<img width="100%" src="img/Logo tila.jpg" />
 <div align=center>
 <img width="100%" src="img-readme-acaiaca/25500F(2).jpg" />
 Uma plataforma com foco em mudar o futuro de nossa crianças, utilizando de jogos educativos e leituras 
