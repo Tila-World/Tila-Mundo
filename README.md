@@ -1,6 +1,6 @@
 <h1>TILA</h1>
 <div align=center>
-<img width="100%" src="img/Logo tila.jpg" />
+<img width="90%" src="img/Logo tila.jpg" />
 
 Uma plataforma com foco em mudar o futuro de nossas crianças, utilizando de jogos educativos e leituras 
 T - Tecnolgia  I - inteligente L - Ludica - A - Para Aprendizado
