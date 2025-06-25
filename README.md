@@ -14,7 +14,7 @@ T - Tecnolgia  I - inteligente L - Ludica - A - Para Aprendizado
   <tr>
     <td align="center">
       <a href="https://github.com/BrxnoTheOne">
-        <img src="https://github.com/BrxnoTheOne" width="100px;" alt="Bruno"/>
+        <img src="https://github.com/BrxnoTheOne.png" width="100px;" alt="Bruno"/>
         <br />
         <sub><b>:octocat: Bruno Rocha</b></sub>
       </a>
