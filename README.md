@@ -1,10 +1,8 @@
-# Tila-Mundo
-
 <h1>TILA</h1>
 <div align=center>
 <img width="100%" src="img/Logo tila.jpg" />
-<div align=center>
-Uma plataforma com foco em mudar o futuro de nossa crianças, utilizando de jogos educativos e leituras 
+
+Uma plataforma com foco em mudar o futuro de nossas crianças, utilizando de jogos educativos e leituras 
 T - Tecnolgia  I - inteligente L - Ludica - A - Para Aprendizado
 
 <div> 
@@ -15,7 +13,7 @@ T - Tecnolgia  I - inteligente L - Ludica - A - Para Aprendizado
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/MayanGit">
+      <a href="https://github.com/BrxnoTheOne">
         <img src="https://github.com/BrxnoTheOne" width="100px;" alt="Bruno"/>
         <br />
         <sub><b>:octocat: Bruno Rocha</b></sub>
