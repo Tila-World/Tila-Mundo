@@ -1,12 +1,17 @@
 <h1>TILA</h1>
 <div align=center>
 <img width="90%" src="img/Logo tila.jpg" />
-<h2>Sobre nós</h2>
-<p>Uma plataforma com foco em mudar o futuro de nossas crianças de 6 a 11 anos, transformamos tempo de tela em algo produtivo, utilizando de jogos e leituras educativas.
-<h3>Significado do nome TILA</h3
+## Sobre nós
+<p>Uma plataforma com foco em mudar o futuro de nossas crianças de 6 a 11 anos, transformamos tempo de tela em algo produtivo, utilizando de jogos e leituras educativas.</p>
+##Significado do nome TILA
 T - Tecnolgia  I - inteligente L - Ludica - A - Para Aprendizado
+## Missão
+<p></p>
+## Valores
+<p></p>
+## Visão
+<p></p>
 
-</p>
 ## Nossa Redes de Contatos
 <div> 
   <a href="https://www.instagram.com/tila.world2025/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -44,7 +49,7 @@ T - Tecnolgia  I - inteligente L - Ludica - A - Para Aprendizado
         <sub><b>:octocat: Gabriel Santiago</b></sub>
       </a>
       <br />
-      <span>Front e Desing</span>
+      <span>Front, Desing e Marketing</span>
       <br />
       <a href=https://www.linkedin.com/in/gabriel-santiago-6a022b204/">🔗 LinkedIn</a>
     </td>
