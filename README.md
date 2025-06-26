@@ -1,14 +1,21 @@
 <h1>TILA</h1>
 <div align=center>
 <img width="90%" src="img/Logo tila.jpg" />
+</div>
+<div aling=center>
+  
 ## Sobre nós
 <p>Uma plataforma com foco em mudar o futuro de nossas crianças de 6 a 11 anos, transformamos tempo de tela em algo produtivo, utilizando de jogos e leituras educativas.</p>
-##Significado do nome TILA
+
+## Significado do nome TILA
 T - Tecnolgia  I - inteligente L - Ludica - A - Para Aprendizado
+
 ## Missão
 <p></p>
+
 ## Valores
 <p></p>
+
 ## Visão
 <p></p>
 
@@ -17,6 +24,7 @@ T - Tecnolgia  I - inteligente L - Ludica - A - Para Aprendizado
   <a href="https://www.instagram.com/tila.world2025/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tila-world-3b629735b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 ## 👥 Equipe TILA
 <table>
   <tr>
@@ -73,7 +81,7 @@ T - Tecnolgia  I - inteligente L - Ludica - A - Para Aprendizado
         <sub><b>:octocat: Juliana</b></sub>
       </a>
       <br />
-      <span>Front e Desing</span>
+      <span>Front, Desing e Marketing</span>
       <br />
       <a href="https://www.linkedin.com/in/julianamzz/">🔗 LinkedIn</a>
     </td>
