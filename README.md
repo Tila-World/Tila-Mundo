@@ -1,10 +1,13 @@
 <h1>TILA</h1>
 <div align=center>
 <img width="90%" src="img/Logo tila.jpg" />
-
-Uma plataforma com foco em mudar o futuro de nossas crianças, utilizando de jogos educativos e leituras 
+<h2>Sobre nós</h2>
+<p>Uma plataforma com foco em mudar o futuro de nossas crianças de 6 a 11 anos, transformamos tempo de tela em algo produtivo, utilizando de jogos e leituras educativas.
+<h3>Significado do nome TILA</h3
 T - Tecnolgia  I - inteligente L - Ludica - A - Para Aprendizado
 
+</p>
+## Nossa Redes de Contatos
 <div> 
   <a href="https://www.instagram.com/tila.world2025/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tila-world-3b629735b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
