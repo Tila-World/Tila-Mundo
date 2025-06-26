@@ -11,13 +11,18 @@
 T - Tecnolgia  I - inteligente L - Ludica - A - Para Aprendizado
 
 ## Missão
-<p></p>
+<p>Transformar o tempo de tela em tempo de vida.
+</p>
 
 ## Valores
-<p></p>
+-  Cuidado
+- Inclusão
+- Segurança Digital
+- Diversão
 
 ## Visão
-<p></p>
+<p>Usar a tecnologia para auxílio dos pais e responsáveis para aprendizagem de seus filhos.
+</p>
 
 ## Nossa Redes de Contatos
 <div> 
