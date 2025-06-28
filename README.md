@@ -90,6 +90,28 @@ T - Tecnolgia  I - inteligente L - Ludica - A - Para Aprendizado
       <br />
       <a href="https://www.linkedin.com/in/julianamzz/">🔗 LinkedIn</a>
     </td>
+      <td align="center">
+      <a href="https://github.com/Gusttavo86">
+        <img src="https://github.com/Gusttavo86.png" width="100px;" alt="Gustavo"/>
+        <br />
+        <sub><b>:octocat: Gustavo</b></sub>
+      </a>
+      <br />
+      <span>Backend e Marketing</span>
+      <br />
+      <a href="https://www.linkedin.com/in/gustavo-de-jesus-81935329b/">🔗 LinkedIn</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MaikonSilva25">
+        <img src="https://github.com/MaikonSilva25.png" width="100px;" alt="Maikon"/>
+        <br />
+        <sub><b>:octocat: Maikon</b></sub>
+      </a>
+      <br />
+      <span>Backend</span>
+      <br />
+      <a href="https://www.linkedin.com/in/maikon-silva25/">🔗 LinkedIn</a>
+    </td>
   </tr>
   </table>
 
