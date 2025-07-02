@@ -4,11 +4,24 @@
 </div>
 <div aling=center>
   
-## Sobre nós
-<p>Uma plataforma com foco em mudar o futuro de nossas crianças de 6 a 11 anos, transformamos tempo de tela em algo produtivo, utilizando de jogos e leituras educativas.</p>
+# *TILA — Transformando aprendizado em diversão!* ✨
+Mais do que uma plataforma: um mundo onde *nossas crianças* aprendem brincando, crescem explorando e descobrem novos jeitos de sonhar.
 
-## Significado do nome TILA
-T - Tecnolgia  I - inteligente L - Ludica - A - Para Aprendizado
+## 🧩 *Sobre o Projeto*
+O *TILA* é uma plataforma web criada para oferecer jogos, atividades e desafios positivos que estimulam a criatividade, o raciocínio e o aprendizado.  
+Pensado para que *nossas crianças* tenham um ambiente seguro, lúdico e cheio de descobertas! 🌟
+
+## 🎨 *Funcionalidades*
+- 🕹 Jogos educativos e desafiadores  
+- 🔒 Segurança e privacidade como prioridade  
+- 🌱 Acompanhamento do progresso das crianças  
+- 🧏‍♀️ Acessibilidade: design inclusivo para todos
+
+  ## ✨ *Diferenciais*
+- Feito por quem entende de tecnologia *e* se importa com o universo infantil ❤️  
+- Visual lúdico, divertido e pensado para crianças  
+- Totalmente responsivo e acessível  
+- Foco em desafios que estimulam o pensamento positivo
 
 ## Missão
 <p>Transformar o tempo de tela em tempo de vida.
@@ -86,7 +99,7 @@ T - Tecnolgia  I - inteligente L - Ludica - A - Para Aprendizado
         <sub><b>:octocat: Juliana</b></sub>
       </a>
       <br />
-      <span>Front, Desing e Marketing</span>
+      <span>Design / Front-end e UX</span>
       <br />
       <a href="https://www.linkedin.com/in/julianamzz/">🔗 LinkedIn</a>
     </td>
@@ -111,6 +124,16 @@ T - Tecnolgia  I - inteligente L - Ludica - A - Para Aprendizado
       <span>Backend</span>
       <br />
       <a href="https://www.linkedin.com/in/maikon-silva25/">🔗 LinkedIn</a>
+    </td>
+    <td align="center">
+        <img src="https://www.linkedin.com/in/esther-marques-7882051bb/.png" width="100px;" alt="Esther"/>
+        <br />
+        <sub><b>:octocat: Esther</b></sub>
+      </a>
+      <br />
+      <span>Front-end / Scrum Master </span>
+      <br />
+      <a href="https://www.linkedin.com/in/esther-marques-7882051bb/">🔗 LinkedIn</a>
     </td>
   </tr>
   </table>
