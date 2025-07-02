@@ -17,7 +17,7 @@ Pensado para que *nossas crianças* tenham um ambiente seguro, lúdico e cheio d
 - 🌱 Acompanhamento do progresso das crianças  
 - 🧏‍♀️ Acessibilidade: design inclusivo para todos
 
-  ## ✨ *Diferenciais*
+## ✨ *Diferenciais*
 - Feito por quem entende de tecnologia *e* se importa com o universo infantil ❤️  
 - Visual lúdico, divertido e pensado para crianças  
 - Totalmente responsivo e acessível  
