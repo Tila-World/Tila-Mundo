@@ -126,6 +126,7 @@ Pensado para que *nossas crianças* tenham um ambiente seguro, lúdico e cheio d
       <a href="https://www.linkedin.com/in/maikon-silva25/">🔗 LinkedIn</a>
     </td>
     <td align="center">
+      <a href="https://github.com/sthe2">
         <img src="https://github.com/sthe25.png" width="100px;" alt="Esther"/>
         <br />
         <sub><b>:octocat: Esther</b></sub>
